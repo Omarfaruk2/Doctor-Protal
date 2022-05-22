@@ -34,7 +34,7 @@ const Footer = () => {
                 </div>
             </div>
 
-            <footer className="footer footer-center p-4 bg-base-300 text-base-content">
+            <footer className="footer footer-center p-4 text-base-content">
                 <div className='my-10 text-center'>
                     <p>Copyright © {year} - All right reserved by ACME Industries Ltd</p>
                 </div>
